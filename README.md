@@ -32,4 +32,4 @@ Pasos para ejecutar:
 -Ejecutar la clase principal AgenciaLlanquihueTour.java localizada en el paquete app.
 
 📹 Video Explicativo
-Enlace al video: [
+Enlace al video: [https://drive.google.com/file/d/1CFkqISx8X6G3XGAwRVFiK3K0Hl7e8Tb2/view?usp=drive_link]
