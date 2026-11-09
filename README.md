@@ -28,11 +28,8 @@ src/
     ├── Persona.java                # Clase base con composición de Ubicación
     ├── Trabajador.java             # Subclase con atributos específicos de empleado
     └── Ubicacion.java              # Clase de apoyo para dirección y comuna
-``` 
-# 👤 Autoría
-Estudiante: Catalina García Santana
-Asignatura: Desarrollo Orientado a Objetos
-
+```
+---
 # 💻 Requisitos y Ejecución
 Lenguaje: Java (JDK 17 o superior)
 IDE Recomendado: NetBeans / IntelliJ IDEA
@@ -41,6 +38,6 @@ Pasos para ejecutar:
 * Clonar o descargar el repositorio.
 * Abrir el proyecto en el IDE.
 * Ejecutar la clase principal AgenciaLlanquihueTour.java localizada en el paquete app.
-
+---
 # 📹 Video Explicativo
 Enlace al video: [https://drive.google.com/file/d/1CFkqISx8X6G3XGAwRVFiK3K0Hl7e8Tb2/view?usp=drive_link]
