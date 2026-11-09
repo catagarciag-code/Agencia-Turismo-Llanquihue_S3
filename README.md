@@ -1,2 +1,35 @@
 # Agencia-Turismo-Llanquihue_S3
-"Prototipo de sistema orientado a objetos en Java para la Agencia Llanquihue Tour".
+
+📌 Descripción del Proyecto:
+Este proyecto consiste en un prototipo en Java desarrollado bajo el paradigma de Programación Orientada a Objetos (POO) para la modernización del registro de trabajadores de la Agencia Llanquihue Tour.
+
+El sistema aplica conceptos fundamentales como:
+
+-Encapsulamiento: Atributos privados con sus respectivos getters y setters.
+-Composición: Relación entre la clase Persona y la clase Ubicacion.
+-Herencia: La clase Trabajador extiende de la clase base Persona.
+
+🗂️ Estructura del Proyecto
+src/
+├── app/
+│   └── AgenciaLlanquihueTour.java  # Clase principal con el método main
+└── model/
+    ├── Persona.java                # Clase base con composición de Ubicación
+    ├── Trabajador.java             # Subclase con atributos específicos de empleado
+    └── Ubicacion.java              # Clase de apoyo para dirección y comuna
+
+👤 Autoría
+Estudiante: Catalina García Santana
+Asignatura: Desarrollo Orientado a Objetos
+
+💻 Requisitos y Ejecución
+Lenguaje: Java (JDK 17 o superior)
+IDE Recomendado: NetBeans / IntelliJ IDEA
+
+Pasos para ejecutar: 
+-Clonar o descargar el repositorio.
+-Abrir el proyecto en el IDE.
+-Ejecutar la clase principal AgenciaLlanquihueTour.java localizada en el paquete app.
+
+📹 Video Explicativo
+Enlace al video: [
